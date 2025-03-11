@@ -48,6 +48,10 @@ python sort_colors.py
 3. A recursive algorithm finds the optimal solution
 4. The solution is executed using PyAutoGUI to simulate clicks
 
+## Screenshot
+
+![Screenshot of the Color Water Sort Puzzle Solver](Screenshot%202025-03-11%20193301.png)
+
 ## Contributing
 
 Feel free to open issues or submit pull requests for any improvements. 
