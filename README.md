@@ -51,7 +51,3 @@ python sort_colors.py
 ## Screenshot
 
 ![Screenshot of the Color Water Sort Puzzle Solver](Screenshot%202025-03-11%20193301.png)
-
-## Contributing
-
-Feel free to open issues or submit pull requests for any improvements. 
